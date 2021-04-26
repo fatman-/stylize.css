@@ -1,5 +1,5 @@
 # stylize.css
-> A beautiful alternative CSS resets & normalizers.
+> A beautiful alternative to CSS resets & normalizers.
 >
 > We all know that HTML document without CSS sucks. Stylize.css adds a set of CSS to the HTML markup to make it look much better and consistent across browsers.
 >
